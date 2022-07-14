@@ -3,6 +3,14 @@
 ## 프로젝트 기간
 2021/11/08 ~ 2021/11/15
 
+### 프로젝트 발표 동영상  
+
+[프로젝트 발표 영상](https://drive.google.com/file/d/1WvoXdaTTsPVa6b-lS1GW1rOyzZ4wfK33/view?usp=sharing)  
+
+[프로젝트 모델 시연 영상](https://drive.google.com/file/d/1uxq52Dr76WTt0G1kHIRyPFXkRv4ao0Sz/view?usp=sharing)
+- 첫 번째 영상에 포함되어있는 부분입니다
+
+
 # 프로젝트 배경
 
 - 오징어 게임이 유행할때 초등학생들이 오징어게임 츄리닝을 입은 것을 보고 어떻게 오징어게임을 알까 하는 생각이 들었다
